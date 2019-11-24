@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-![Science GitHub](/path/to/image.jpg){:class="img-responsive"}
+![Science GitHub](https://github.com/NetzaDelgado/NetzaDelgado.github.io/blob/master/Science_Github.png){:class="img-responsive"}
 
 # Header 1
 ## Header 2
