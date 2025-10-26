@@ -42,7 +42,7 @@ Some of the projects I’ve led include:
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7759--6170-brightgreen?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7759-6170)
 [![Zenodo](https://img.shields.io/badge/Zenodo-REI--Salud%20Jalisco-blue?logo=zenodo&logoColor=white)](https://zenodo.org/communities/rei-salud-jalisco)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Netzahualpilli%20Delgado%20Figueroa-blue?logo=linkedin)](https://www.linkedin.com/in/netzahualpilli-delgado-figueroa)
-[![GitHub](https://img.shields.io/github/followers/NetzahualpilliDelgado?style=social)](https://github.com/NetzahualpilliDelgado)
+[![GitHub](https://img.shields.io/github/followers/NetzaDelgado?style=social)](https://github.com/NetzaDelgado)
 
 ---
 
