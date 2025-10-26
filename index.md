@@ -1,40 +1,52 @@
-## Welcome to Netzahualpilli Delgado Figueroa Personal Webpage 
+# 👋 Hi, I'm Dr. Netzahualpilli Delgado Figueroa  
 
-You can use the [editor on GitHub](https://github.com/NetzaDelgado/NetzaDelgado.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+🎓 **Director of Health Research** — Secretaría de Salud Jalisco, Government of the State of Jalisco, Mexico  
+🌎 **Coordinator** — Latin America & Caribbean Hub, [The Global Health Network (Oxford/WHO)](https://tghn.org)  
+🔬 **Director** — [Cochrane Mexico (Jalisco Node)](https://www.cochrane.org)  
+🏛️ **Professor-Researcher** — [University of Guadalajara (CUGDL/CUCS)](https://www.udg.mx)  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-![Science GitHub](https://github.com/NetzaDelgado/NetzaDelgado.github.io/blob/master/Science_Github.png)
+## 🚀 About Me
+I’m passionate about integrating **artificial intelligence, open science, and digital innovation** into public health and clinical research across Latin America.  
+I design programs that bridge academia, government, and global organizations to foster **evidence-based health policy**, **STEM education**, and **AI-driven discovery**.
 
-### Markdown
+Some of the projects I’ve led include:
+- 🧾 [REI-Salud Jalisco](https://zenodo.org/communities/rei-salud-jalisco): State Health Research Registry promoting transparency and open data.  
+- 🚀 [NASA Space Apps Challenge Guadalajara](https://www.spaceappschallenge.org/): Engaging citizen scientists and students in Earth & space exploration.  
+- 🌍 Earth & Space Science Laboratory (CUGDL): A collaborative space for geoscience, AI, and citizen innovation.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+## 🧠 Research Interests
+- Artificial Intelligence & Data Science in Health  
+- Open Science and FAIR Data  
+- Digital Health Innovation  
+- Epidemiology & Clinical Trials  
+- Evidence-Informed Health Policy  
+- STEM Education & Citizen Science  
 
+---
 
-# Header 1
-## Header 2
-### Header 3
+## 🌐 Collaborations
+- University of Guadalajara  
+- Secretaría de Salud Jalisco  
+- The Global Health Network (Oxford/WHO)  
+- Cochrane Iberoamérica  
+- NASA Space Apps  
+- PLAi Jalisco  
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## 📊 Digital & Academic Profiles
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7759--6170-brightgreen?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7759-6170)
+[![Zenodo](https://img.shields.io/badge/Zenodo-REI--Salud%20Jalisco-blue?logo=zenodo&logoColor=white)](https://zenodo.org/communities/rei-salud-jalisco)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Netzahualpilli%20Delgado%20Figueroa-blue?logo=linkedin)](https://www.linkedin.com/in/netzahualpilli-delgado-figueroa)
+[![GitHub](https://img.shields.io/github/followers/NetzahualpilliDelgado?style=social)](https://github.com/NetzahualpilliDelgado)
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+### 💬 Let’s Collaborate
+I’m always open to interdisciplinary collaborations — especially on projects connecting **AI, public health, and open science** in Latin America.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NetzaDelgado/NetzaDelgado.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+📫 Reach me via [LinkedIn](https://www.linkedin.com/in/netzahualpilli-delgado-figueroa) or through [ORCID](https://orcid.org/0000-0001-7759-6170).
